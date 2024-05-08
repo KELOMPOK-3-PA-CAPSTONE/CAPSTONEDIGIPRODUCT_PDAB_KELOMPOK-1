@@ -310,6 +310,6 @@ with tab5:
          st.write("""
             Fokus pada pengembangan keterampilan kewirausahaan yang mencakup ketekunan, inisiatif, dan kepercayaan diri, serta memberikan 
             dukungan khusus untuk wirausahawan untuk yang tidak tinggal di kota dan mengidentifikasi potensi wirausahawan yang tidak terpengaruh, 
-            sambil mendorong karakteristik passion (semangat yang mendalam) dan resilience (bangkit lagi setelah kesulitan).
+            sambil mendorong karakteristik passion dan resilience.
          """)
    comparison_plot()
